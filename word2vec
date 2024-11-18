@@ -1,5 +1,1 @@
-git lfs track "*.bin"
-git add .gitattributes
-git add <best_word2vec_phishing_opt_single_file.bin>
-git commit -m "Add large file with LFS"
-git push
+
